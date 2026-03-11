@@ -1,7 +1,7 @@
 
 ---
 
-# 3️⃣ UNO (Python)
+#  UNO (Python)
 
 ```markdown
 # UNO Game
